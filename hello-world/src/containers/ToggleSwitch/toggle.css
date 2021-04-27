@@ -1,0 +1,70 @@
+/* .react-switch {
+    vertical-align: middle;
+    margin: 10px;
+  }
+
+.example{
+    vertical-align: middle;
+    margin-left: 250px;
+    font-size: large;
+    width: 420px;
+}
+  
+.example span {
+    padding: 10px;
+}
+
+#guardian {
+    padding-left: 3px;
+} */
+
+#guardian{
+    float:left;
+    /* margin-left: -25%; */
+    /* display: inline-block; */
+    /* margin-top:17%; */
+    /* padding-top:16%; */
+} 
+#nytimestoggle{
+    /* margin-top:17%; */
+    /* padding-top:16%; */
+    /* vertical-align:t ; */
+    float:left;
+    /* padding-right:2%; */
+    /* margin-right:2%; */
+
+}
+
+
+.react-switch {
+    /* vertical-align: top;
+    margin: 10px;
+    marin-left:
+    display: inline-block; */
+    /* margin-left:5%; */
+   /* display: inline-flex; */
+   align-items: center;
+   justify-content: center;
+   vertical-align: middle;
+   text-align:left;
+   /* padding-right:-12%; */
+   /* margin-left:10%; */
+    /* text-align:center; */
+    /* margin-left:auto; */
+  }
+
+.example{
+    /* display:inline; */
+    /* vertical-align: middle; */
+    /* margin-right: -2%; */
+    /* padding-left:2%; */
+    /* padding-top:1%; */
+    font-size: large;
+    display: flex;
+    align-items: center;
+    
+
+    margin-top:0%;
+    text-align:left;
+    /* width: 50%; */
+}

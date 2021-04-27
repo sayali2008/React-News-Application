@@ -1,0 +1,78 @@
+.grad {
+    background: linear-gradient(90deg, rgba(27,37,77) 0%, rgb(55,74,123) 50%, rgb(68,92,152) 75%, rgb(79,100,182) 90%, rgb(80,109,177) 100%);
+    color: #ffffff;
+    max-width:100%;
+    /* float: top; */
+}
+
+.navbar-nav
+{
+  width:auto;
+}
+
+/* .grad a{
+      color:#cccccc;
+      margin-right: 15px;
+      font-size: large;
+}
+
+.grad a:hover{
+      color: white;
+      text-decoration: none;
+} */
+
+/* .dropdown {
+    width: 200px;
+    float: left;
+  }
+
+.toggler{
+  width: 300px;
+  float: right;
+  //margin: auto;
+} */
+
+.toggler{
+  text-align:left;
+  margin-left:0%;
+}
+
+#bkmk1{
+  color:white;
+  margin-left:auto;
+  /* padding-right:4%; */
+  text-align:left;
+  margin-top:0.5%;
+
+  /* margin-left:10%; */
+}
+
+#home,#world,#politics,#sports,#tech,#business{
+  color:rgba(240, 240, 240, 0.795);
+  text-decoration:none;
+  font-size:large;
+  margin-right:6%;
+  text-align:left;
+  margin-top:1%;
+}
+#home:hover,#world:hover,#sports:hover,#tech:hover,#business:hover,#politics:hover{
+  color:white;
+  text-decoration:none;
+}
+.navbar-toggler{
+  margin-right:0%;
+}
+@media only screen and (max-device-width: 480px) {
+  .toggler{
+    margin-right:10%;
+  }
+  .navbar-toggler{
+    margin-right:0%;
+    /* position:fixed; */
+  }
+  /* .grad{
+    position:relative;
+    width:100%;
+  } */
+  
+}

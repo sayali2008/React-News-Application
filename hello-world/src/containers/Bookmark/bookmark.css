@@ -1,0 +1,21 @@
+.tbtn {
+    color: black;
+    background-color: white;
+}
+
+.black-background {
+    color: black;
+}
+
+#topvertdiv{
+    margin-left:1%;
+}
+
+#favtext{
+    padding-bottom:0.5%;
+}
+@media only screen and (max-device-width: 480px) {
+#topvertdiv{
+    margin-left:3.5%;
+}
+}

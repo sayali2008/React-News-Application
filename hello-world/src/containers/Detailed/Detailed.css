@@ -1,0 +1,75 @@
+#ct{
+    text-align: left;
+    font-style:italic;
+}
+#bimage{
+    padding-top:0.5%;
+    /* margin-top:-1%; */
+}
+
+.fbdetailed{
+    text-align:right;
+}
+ #bomark{
+     margin-top:-12%;
+     padding-left:55%;
+     vertical-align:center;
+     /* float:right; */
+     
+     /* font-size:10px; */
+ }
+ #dt{
+     padding-left: 1.2%;
+     font-weight:none;
+     font-size:18px;
+     font-family:"Arial", Helvetica, sans-serif;
+ }
+ #bottext{
+     text-align:left;
+     
+     font-family:"Arial", Helvetica, sans-serif;
+ }
+
+ #smslid{
+     
+    font-family:"Arial", Helvetica, sans-serif;
+ }
+/* .col-6{
+    padding-left:0px;
+    padding-right:0px;
+} */
+ #detailedcardtop{
+     width:98%;
+     margin-left:1%;
+ }
+ #titlestyle{
+    font-family:"Arial", Helvetica, sans-serif;
+    /* font-weight:bold; */
+ }
+/* 
+.rt {
+    font-size: large;
+ } */
+ #bkmk{
+    color:red;
+}
+#secbut{
+    color:red;
+}
+
+.black-background {
+    color: black;
+}
+
+@media only screen and (max-device-width: 480px) {
+    #detailedcardtop{
+        width:93%;
+        margin-left:4%;
+    }
+    #dt{
+        margin-left:7%;
+    }    
+    /* #bomark{
+        margin-top:-1%;
+    } */
+}

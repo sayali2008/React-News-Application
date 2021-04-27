@@ -1,0 +1,99 @@
+/* .ctext{ */
+    /* color:black;
+    display: inline; */
+    /* margin-left:-132px; */
+/* } */
+
+/* .ctitle{
+    color:black;
+    text-align:left;
+    margin-left:25px;
+    text-align: left;
+    font-style:italic;
+    margin-top:17px;
+    margin-right:15px;
+    overflow:hidden;
+    margin-bottom:-9px;
+}
+
+.cimage{
+    padding-left:0px;
+    padding-top:0px; 
+    
+
+    height:160px;
+    width:250px;
+}
+.card{
+box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+transition: 0.3s;
+margin-left:13px;
+margin-bottom:20px;
+margin-top:0px;
+}
+
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  } */
+  /* .sh{
+    display:inline-block;
+  } */
+  .ctext{
+    text-align:left;
+    color: black;
+    font-family:"Arial", Helvetica, sans-serif;
+}
+.ctitle{
+  text-align:left;
+  font-size:16px;
+  color: black;
+  font-weight: bold;
+ 
+  font-family:"Arial", Helvetica, sans-serif;
+  font-style: italic;
+}
+.vertimg{
+  margin-bottom:5%;
+}
+#st2{
+  font-size:75%;
+}
+#st1{
+  font-size:75%;
+}
+#fatr{
+  /* margin-right: 59%;
+  margin-top: -4%; */
+  display:inline;
+  /* position: relative; */
+}
+.mainvbody{
+  margin-left:1.5%;
+  /* min-width: 18rem; */
+  /* display:flex;
+  flex-direction: row;
+  flex:1; */
+  /* display:inline-block;
+  position:relative; */
+  /* float:right; */
+}
+
+.card{
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  
+  margin-bottom:1.5%;
+  
+  }
+  
+.card:hover {
+      box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+.tbtn{
+  text-align:left;
+  position:relative;
+}
+.badge{
+  font-size:75%;
+}
+
